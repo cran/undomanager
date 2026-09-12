@@ -1,0 +1,16 @@
+8bf9519e3ed2ce1dcd2328cd38e968e6 *DESCRIPTION
+b223fafc84df6a9913d7dd1e0812fb10 *LICENSE
+0f383293f0ce654e6ab02151ee95a9b6 *NAMESPACE
+e89fb094265f5d35df42cb22d0e3db3b *NEWS.md
+04d44a18096905e24e521a8840f0cdd7 *R/undomanager.R
+24c1b8e409bf54c84eabbf02df295f6e *R/utils.R
+9c301c4e7a402b53ee684cf907d97507 *R/zzz.R
+190c80ed28b07ad3980bd949909aab7e *README.md
+645f1a04d1e884f1c08683819455088a *inst/img/hex.png
+0c8779987b56141e3b0b95ff3cc6f2f8 *inst/img/social-preview.png
+b5078773f8cedace7ccd83f72dd8d100 *man/UndoManager-class.Rd
+d209171e2c2266194d42a85985a57698 *man/all.equal.UndoManager.Rd
+f7d2a34069341824159eee42dc5b3af3 *man/undomanager.Rd
+1d05e674ab1ff5768c4c9656be2ebfd7 *tests/testthat.R
+4850f6e296bb8a36dd323bc216cdaf79 *tests/testthat/_snaps/undomanager.md
+66b34eaee6a6f64da5fee7ad7c7fd589 *tests/testthat/test-undomanager.R
